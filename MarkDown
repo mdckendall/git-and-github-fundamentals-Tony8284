@@ -1,0 +1,3 @@
+New Markdown File. I think this is what is considered a mark down file lol.
+
+I learned quite a bit. How to install it on my local machine and operate on it using my preffered software if need be as well.
